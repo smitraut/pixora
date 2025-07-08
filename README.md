@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/smitraut/pixora/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/smitraut/pixora/discussions)
-- **Email**: [Project Maintainer](mailto:smitraut@example.com)
+- **Email**: [Project Maintainer](mailto:raut.smit1202@gmail.com)
 
 ---
 
